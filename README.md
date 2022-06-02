@@ -8,5 +8,5 @@
 5. Abrir Cypress
 6. Clicar em select manually
 7. Selecionar a pasta que se encontra o arquivo e abrir
-8. Click no seu arquivo de teste
+8. Clique no seu arquivo de teste
 9. Acompanhar o teste que apresentará no seu Google Chrome
